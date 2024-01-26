@@ -6,11 +6,11 @@
 
 
 ### How to contact me:
-Send email to: mixinny1@gmail.com 
+Send email to: sharafutdinov.l.a@gmail.com 
 
-Write in telegram: [@alyonakdev](https://t.me/alyonakdev)
+Write in telegram: [@Linchaaa](https://t.me/Linchaaa)
 
-👨‍💻 All my projects are available [here](https://github.com/AlyonaKomarnitskaya?tab=repositories)
+👨‍💻 All my projects are available [here](https://github.com/LinarAlex?tab=repositories)
 
 ### My tech stack
 
