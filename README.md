@@ -17,7 +17,7 @@ Write in telegram: [@Linchaaa](https://t.me/Linchaaa)
 ___
 <div id="badges">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/LINUX-green?style=for-the-badge&logo=Linux&logoColor=black&labelColor=white" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/LINUX-green?style=for-the-badge&logo=Linux&logoColor=black" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/JUnit-yellow?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge"/>
   <img src="https://img.shields.io/badge/Gradle-deepskyblue?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
@@ -26,6 +26,6 @@ ___
 
 ### Github Stats
 ___
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlyonaKomarnitskaya&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LinarAlex&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage))](https://github.com/anuraghazra/github-readme-stats)
 
 
