@@ -17,7 +17,7 @@ Write in telegram: [@Linchaaa](https://t.me/Linchaaa)
 ___
 <div id="badges">
   <img src="https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=Java&logoColor=white" alt="Java Badge"/>
-  <img src="https://img.shields.io/badge/LINUX-green?style=flat&logo=Linux&logoColor=black&labelColor=white&color=green" alt="Linux Badge"/>
+  <img src="https://img.shields.io/badge/LINUX-green?style=for-the-badge&logo=Linux&logoColor=black&labelColor=white" alt="Linux Badge"/>
   <img src="https://img.shields.io/badge/JUnit-yellow?style=for-the-badge&logo=junit&logoColor=white" alt="JUnit Badge"/>
   <img src="https://img.shields.io/badge/Gradle-deepskyblue?style=for-the-badge&logo=gradle&logoColor=white" alt="Gradle Badge"/>
   <img src="https://img.shields.io/badge/Git-red?style=for-the-badge&logo=git&logoColor=white" alt="Git Badge"/>
