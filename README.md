@@ -10,7 +10,7 @@ Send email to: sharafutdinov.l.a@gmail.com
 
 Write in telegram: [@Linchaaa](https://t.me/Linchaaa)
 
-👨‍💻 All my projects are available [here](https://github.com/LinarAlex?tab=repositories)
+👨‍💻 All my projects are available [Mind games](https://github.com/LinarAlex/java-project-61), [Diff Finder](https://github.com/LinarAlex/java-project-71), [Data Validator](https://github.com/LinarAlex/java-project-78)
 
 ### My tech stack
 
